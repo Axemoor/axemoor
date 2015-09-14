@@ -184,9 +184,10 @@
             <img src="images/armorial/gellirgunnarrsson.gif" height="150px" alt="Per bend sinister gules and sable, a sun in its splendor Or and a wolf's head erased argent." title="Per bend sinister gules and sable, a sun in its splendor Or and a wolf's head erased argent."/>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Baron Gellir Gunnarrsson</h3>
+            <h3 class="media-heading">Baronos Gellir Gunnarrsson</h3>
+            <p>Baron Axemoor</p>
             <!--
-              <p>Titles</p>
+
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
               <p>Email address</p>
@@ -457,9 +458,10 @@
                 <img src="images/armorial/brigidaingvarsdottir.gif" height="150px" alt="Per chevron azure and gules, a gryphon segreant erminois." title="Per chevron azure and gules, a gryphon segreant erminois."/>
               </div>
               <div class="media-body">
-                <h3 class="media-heading">Baroness Br&iacute;gi&eth;a Ingvarsd&oacute;ttir</h3>
+                <h3 class="media-heading">Baronossa Br&iacute;gi&eth;a Ingvarsd&oacute;ttir</h3>
+                <p>Baroness Axemoor</p>
                 <!--
-              <p>Titles</p>
+
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
               <p>Email address</p>
@@ -493,12 +495,12 @@
                </div>
                <div class="media-body">
                  <h3 class="media-heading">Vacant</h3>
-                 
+
               <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
               <p>Email address</p>
-             
+
                </div>
              </div>
            </div>
