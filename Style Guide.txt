@@ -1,0 +1,78 @@
+* Axemoor.net Style Guide *
+
+This style guide was created for use with the Bootstrap Framework and the
+Axemoor.net re-design of 2015.
+Visit http://getbootstrap.com to read up on Bootstrap's basic functions. This
+document will cover the specifics of design for Axemoor.net.
+
+Global Include Files
+
+  Because the site's pages are written in PHP instead of HTML, we can instruct
+  the server to insert the contents of other files into our pages by calling
+  them with PHP code, as follows:
+
+  <?php include("/templates/file.php"); ?>
+
+  This command instructs the server to retrieve the file named "file.php" and
+  insert the file's contents into the page that was requested. This allows us to
+  follow the "Don't Repeat Yourself" (DRY) rule of web design. We use this
+  method to include things we want to appear on more than one page, while
+  avoiding making extra work for ourselves.
+
+  The two biggest examples of this are the header and footer files. These should
+  be included on every page on the site - they provide the beginning and end of
+  each page, leaving us to only need to design the main body of each different
+  page. If we need to change something in the header or the footer, we only need
+  to change it one time - in the header or footer file, rather than needing to
+  change it in every single page. The blank page templates have header and
+  footer calls inserted and ready to go.
+
+  Include files should be stored in the "Templates" folder.
+
+External Links
+
+  The Webminister Handbook requires that links to external sites be
+  differentiated from links within the primary site domain (in this case, that's
+  Axemoor.net). To do this, add rel="external" to the anchor tag. An example is
+  provided below:
+
+  <a href="http://sca.org" rel="external">Society for Creative Anachronism</a>
+
+  This will add a little "external link" icon to the end of the link. You can
+  see an example of this by visiting any page in the site and viewing the link
+  to Bootstrap in the lower left corner.
+
+Copyright Date
+
+  The copyright date displayed within the footer is auto-updating. The code
+  contains a PHP command, telling the server to display the current year in
+  the place where the copyright end year would normally appear. When the
+  calendar year advances from 2015 to 2016, the footer will automatically advance
+  from reading "Copyright 2014-2015" to reading "Copyright 2014-2016" and so on.
+
+HTML Comments
+
+  If you add substantial structure to a page, include HTML comments to tell
+  your future self or other future maintainers what the structure does. The
+  HTML comment is formed with a left HTML bracket (<) immediately followed by
+  an exclamation mark and two dashes (!--). The end of the comment is formed by
+  two additional dashes (--), followed by a right HTML bracket (>). See below
+  for an example.
+
+  <!-- This is an HTML comment. It will be ignored by the browser -->
+
+  Even though the browser will ignore comments, they can still be viewed by
+  anyone who accesses the page by viewing the page source in the browser.
+  Therefore, do not use comments to hide sensitive information - they won't
+  protect it from computers or savvy humans. Easter Eggs, on the other hand,
+  are perfectly acceptable, provided that they don't violate SCA Web policy!
+
+Legal Disclaimers and Resources
+
+  The Webminister's Handbook states that the Ownership Statement, external sites
+  notice, and other policy statements may be published on their own page,
+  provided that a link to that page be displayed on the index page. Therefore,
+  all of the required legal statements (aside from the copyright notice) and
+  links to the Barony's governing documents and policies have been relocated to
+  a page dedicated to legal items. The footer contains a statement which directs
+  visitors to the legal page.
