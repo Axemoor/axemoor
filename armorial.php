@@ -95,7 +95,7 @@
               <img src="images/armorial/cristina.gif" height="150px" alt="Argent, two fish naiant in annulo on a chief indented vert an escallop argent" title="Argent, two fish naiant in annulo on a chief indented vert an escallop argent"/>
             </div>
             <div class="media-body">
-              <h3 class="media-heading">THL Cristina de Asturias</h3>
+              <h3 class="media-heading">The Honorable Lady Cristina de Asturias</h3>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
