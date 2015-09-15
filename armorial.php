@@ -356,7 +356,7 @@
               <img src="images/armorial/thorvald.gif" height="150px" alt="Vert semy of oak leaves bendwise sinister, in pale a dagger inverted and a stag's head caboshed Or." title="Vert semy of oak leaves bendwise sinister, in pale a dagger inverted and a stag's head caboshed Or."/>
             </div>
             <div class="media-body">
-              <h3 class="media-heading">Lord Thorvald Invarsson</h3>
+              <h3 class="media-heading">Master Thorvald Invarsson</h3>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
@@ -390,7 +390,7 @@
               <img src="images/armorial/iforleycester.gif" height="150px" alt="Per bend sinister sable and argent, a cross fleury argent and on a tower gules in pale three mascles interlaced argent." title="Per bend sinister sable and argent, a cross fleury argent and on a tower gules in pale three mascles interlaced argent."/>
             </div>
             <div class="media-body">
-              <h3 class="media-heading">The Honorable Lord Ifor de Leycester</h3>
+              <h3 class="media-heading">Baron Ifor de Leycester</h3>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
