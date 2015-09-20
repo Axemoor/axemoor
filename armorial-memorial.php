@@ -9,7 +9,7 @@
 
 <div class="page-header">
         <h1 class="blog-title text-center">Barony Armorial
-          <small>Active Members</small>
+          <small>In Memoriam</small>
           </h1>
         <p class="bg-danger text-center">This page is undergoing content overhaul.<br/>Information on this page is not guaranteed to be accurate.</p>
 </div>

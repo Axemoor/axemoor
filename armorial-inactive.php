@@ -9,8 +9,8 @@
 
 <div class="page-header">
         <h1 class="blog-title text-center">Barony Armorial
-          <small>Active Members</small>
-          </h1>
+        <small>Inactive Members</small>
+        </h1>
         <p class="bg-danger text-center">This page is undergoing content overhaul.<br/>Information on this page is not guaranteed to be accurate.</p>
 </div>
 
@@ -54,12 +54,13 @@
 
       <div class="row"> <!-- Row 2 -->
         <div class="col-md-6">
-          <!-- <div class="media">
+          <div class="media">
             <div class="media-left">
               <img src="images/armorial/byrondelancy.gif" height="150px" alt="Lord Byron DeLancy"/>
             </div>
             <div class="media-body">
               <h3 class="media-heading">Lord Byron DeLancy</h3>
+              <!--
               <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
