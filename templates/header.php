@@ -71,10 +71,12 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">More <span class="caret"></span></a>
 
                   <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="gulfwars.php">Gulf Wars</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Arts &amp; Sciences</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">History</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Photos</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Newsletter</a></li>
+
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="legal.php">Legal</a></li>
                   </ul>
               </li>
