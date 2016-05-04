@@ -1,6 +1,6 @@
 <!-- begin header - do not modify -->
 
-<?php include("/templates/header.php");
+<?php include("templates/header.php");
 ?>
 
 <!-- end header - do not place anything above this line -->
@@ -57,6 +57,6 @@
 
 <!-- Begin Footer - do not modify or insert anything after this -->
 
-<?php include("/templates/footer.php");
+<?php include("templates/footer.php");
 ?>
 <!-- end of footer -->
