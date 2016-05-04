@@ -15,13 +15,14 @@
 
     <h2>Statement of Ownership</h2>
     <p>This is the recognized web site for the Barony of Axemoor of the Society for
-    Creative Anachronism, Inc. and is maintained by <em>THL Egil Haraldsson</em>.
+    Creative Anachronism, Inc. and is maintained by <em>Lady Cordeilla Sharpe</em>.
     This site may contain electronic versions of the group's governing documents.
     Any discrepancies between the electronic version of any information on this
     site and the printed version that is available from the originating office will
     be decided in favor of the printed version. For information on using
     photographs, articles, or artwork from this web site, please contact the
-    Webminister at <strong>eagleclaws_skyrider(at)hotmail.com</strong>. He or she will assist you in contacting
+    Webminister at <strong><a href="mailto:webminister@axemoor.net">
+    webminister@axemoor.net</a></strong>. He or she will assist you in contacting
     the original creator of the piece. Please respect the legal rights of our
     contributors.</p>
   </div> <!-- /.jumbotron -->
@@ -46,7 +47,10 @@
   </div>
   <div class="col-md-4">
     <h2>Geographical Boundaries</h2>
-    <p>The Barony of Axemoor's geographical boundaries are...</p>
+    <p>The Barony of Axemoor's geographical area includes Orleans, Jefferson,
+      St. John the Baptist, St. Charles, St. Bernard, St. Tammany, Plaquemines,
+      Lafourche, and Terrebonne Parishes in Louisiana, including the cities of
+      New Orleans, Metairie, Kenner, Houma, Morgan City, and Slidell.</p>
 
 </div><!-- /.row -->
 <!-- page content ends here -->

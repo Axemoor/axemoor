@@ -42,7 +42,7 @@
                   <thead colspan='2'><h2 class="text-center">Her Excellency's Awards</h2></thead>
                   <t><td>Award Name</td><td>Award Date</td></tr>
                   <?php
-                  $ch = curl_init("http://dev.records.gleannabhann.net/api/person_awards.php?id=245");
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=245");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
                   $result = curl_exec($ch);
@@ -83,7 +83,7 @@
                   <thead colspan='2'><h2 class="text-center">His Excellency's Awards</h2></thead>
                   <t><td>Award Name</td><td>Award Date</td></tr>
                   <?php
-                  $ch = curl_init("http://dev.records.gleannabhann.net/api/person_awards.php?id=556");
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=556");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
                   $result = curl_exec($ch);
