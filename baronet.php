@@ -36,7 +36,28 @@
                 <p class="text-center">Ann Bass</p>
                 <p class="text-center">baroness_gida(at)att.net</p>
                 <img class="center-block" src="images/armorial/brigidaingvarsdottir.gif" height="300px">
+                <hr/>
 
+                <table class='table-condensed'>
+                  <thead colspan='2'><h2 class="text-center">Her Excellency's Awards</h2></thead>
+                  <t><td>Award Name</td><td>Award Date</td></tr>
+                  <?php
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=245");
+                  curl_setopt($ch, CURLOPT_HEADER, 0);
+                  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                  $result = curl_exec($ch);
+                  curl_close($ch);
+
+                  $person = json_decode($result, TRUE);
+
+                  foreach ($person["awards"] as $award)
+                    {
+                    echo '<tr><td>' . $award["name_award"] . '</td><td>' . $award["date_award"] . '</td></tr>';
+                    }
+                    echo '</table>';
+
+
+                   ?>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
 
@@ -56,7 +77,28 @@
                 <p class="text-center">Chris Bass</p>
                 <p class="text-center">gellir(at)att.net<p>
                 <img class="center-block" src="images/armorial/gellirgunnarrsson.gif" height="300px">
+                <hr/>
 
+                <table class='table-condensed'>
+                  <thead colspan='2'><h2 class="text-center">His Excellency's Awards</h2></thead>
+                  <t><td>Award Name</td><td>Award Date</td></tr>
+                  <?php
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=556");
+                  curl_setopt($ch, CURLOPT_HEADER, 0);
+                  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+                  $result = curl_exec($ch);
+                  curl_close($ch);
+
+                  $person = json_decode($result, TRUE);
+
+                  foreach ($person["awards"] as $award)
+                    {
+                    echo '<tr><td>' . $award["name_award"] . '</td><td>' . $award["date_award"] . '</td></tr>';
+                    }
+                    echo '</table>';
+
+
+                   ?>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
           </div><!-- /.row -->
