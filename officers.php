@@ -189,3 +189,7 @@
 <?php include("templates/footer.php");
 ?>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/records-API
