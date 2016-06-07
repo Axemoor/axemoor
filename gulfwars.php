@@ -17,12 +17,20 @@
     <h2>Reservation Policies</h2>
     <ol>
       <li>When Gulf Wars Registration opens Axemoor and Axemoor citizens have
+<<<<<<< HEAD
         first opportunity to pay site fees. On February 1st, spots in  Axemoor
         will be open to non-Axemoor and guests.</li>
       <li>At the close of GW registration if you have not registered you forfeit
          your spot and all funds will be refunded.</li>
       <li>Site fee for Axemoor will be $30.00.
         <ul><li>As an alternative, a limited
+=======
+        first opportunity to pay site fees. Upon February 1st ,spots in  Axemoor
+        will be open to non Axemoor and guests.</li>
+      <li>At the close of GW registration if you have not registered you forfeit
+         your spot and all funds will be refunded.</li>
+      <li>Site fee for Axemoor will be $30.00. <ul><li>As an alternative, a limited
+>>>>>>> master
       number of campers may supply 25lbs of propane (in a bottle) in lieu of each
         $30 fee. All campers supplying propane must pre-arrange with Axemoor Land.</li></ul></li>
       <li>You can ask for a particular spot, but it is not guaranteed that you

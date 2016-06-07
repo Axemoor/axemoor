@@ -187,9 +187,4 @@
 <!-- Begin Footer - do not modify or insert anything after this -->
 
 <?php include("templates/footer.php");
-?>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/records-API
