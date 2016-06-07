@@ -188,4 +188,4 @@
 
 <?php include("templates/footer.php");
 ?>
-<!-- end of footer -->
+
