@@ -8,9 +8,7 @@
 <!-- page content begins here -->
 
 <div class="page-header">
-        <h1 class="blog-title text-center">Barony Armorial
-          <small>Active Members</small>
-          </h1>
+        <h1 class="blog-title text-center">Barony Armorial</h1>
         <p class="bg-danger text-center">This page is undergoing content overhaul.<br/>Information on this page is not guaranteed to be accurate.</p>
 </div>
 
@@ -54,12 +52,13 @@
 
       <div class="row"> <!-- Row 2 -->
         <div class="col-md-6">
-          <!-- <div class="media">
+          <div class="media">
             <div class="media-left">
               <img src="images/armorial/byrondelancy.gif" height="150px" alt="Lord Byron DeLancy"/>
             </div>
             <div class="media-body">
               <h3 class="media-heading">Lord Byron DeLancy</h3>
+              <!--
               <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
@@ -185,10 +184,9 @@
             <img src="images/armorial/gellirgunnarrsson.gif" height="150px" alt="Per bend sinister gules and sable, a sun in its splendor Or and a wolf's head erased argent." title="Per bend sinister gules and sable, a sun in its splendor Or and a wolf's head erased argent."/>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Baronos Gellir Gunnarrsson</h3>
-            <p>Baron Axemoor</p>
+            <h3 class="media-heading">Baron Gellir Gunnarrsson</h3>
             <!--
-
+              <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
               <p>Email address</p>
@@ -357,7 +355,7 @@
               <img src="images/armorial/thorvald.gif" height="150px" alt="Vert semy of oak leaves bendwise sinister, in pale a dagger inverted and a stag's head caboshed Or." title="Vert semy of oak leaves bendwise sinister, in pale a dagger inverted and a stag's head caboshed Or."/>
             </div>
             <div class="media-body">
-              <h3 class="media-heading">Master Thorvald Invarsson</h3>
+              <h3 class="media-heading">Lord Thorvald Invarsson</h3>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
@@ -391,7 +389,7 @@
               <img src="images/armorial/iforleycester.gif" height="150px" alt="Per bend sinister sable and argent, a cross fleury argent and on a tower gules in pale three mascles interlaced argent." title="Per bend sinister sable and argent, a cross fleury argent and on a tower gules in pale three mascles interlaced argent."/>
             </div>
             <div class="media-body">
-              <h3 class="media-heading">Baron Ifor de Leycester</h3>
+              <h3 class="media-heading">The Honorable Lord Ifor de Leycester</h3>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
@@ -459,10 +457,9 @@
                 <img src="images/armorial/brigidaingvarsdottir.gif" height="150px" alt="Per chevron azure and gules, a gryphon segreant erminois." title="Per chevron azure and gules, a gryphon segreant erminois."/>
               </div>
               <div class="media-body">
-                <h3 class="media-heading">Baronossa Br&iacute;gi&eth;a Ingvarsd&oacute;ttir</h3>
-                <p>Baroness Axemoor</p>
+                <h3 class="media-heading">Baroness Br&iacute;gi&eth;a Ingvarsd&oacute;ttir</h3>
                 <!--
-
+              <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
               <p>Email address</p>
@@ -487,6 +484,25 @@
               -->
                </div>
              </div>
+           </div>
+
+           <div class="col-md-6">
+             <div class="media">
+               <div class="media-left">
+                 <img src="images/armorial/adalydedesardaigne.png" height="150px" alt="a"/>
+               </div>
+               <div class="media-body">
+                 <h3 class="media-heading">Baroness Adalyde de Sardaigne</h3>
+                <!--
+              <p>Titles</p>
+              <p>M.K.A </p>
+              <p>Persona Period and Location</p>
+              <p>Email address</p>
+            -->
+               </div>
+             </div>
+           </div>
+
            </div>
            <!-- extra entry
            <div class="col-md-6">
