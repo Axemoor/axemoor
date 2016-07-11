@@ -21,7 +21,7 @@
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2>
               <p>Lady Aoiffe O&apos;Calliegh</p>
-              <p>(504) 577-0738 (no calls after nine)</p>
+          <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
           </div>
@@ -34,7 +34,7 @@
             <div class="media-body">
               <h2 class="media-heading">Knight's Marshal</h2>
               <p>Lord David Bootleg</p>
-              <p>(985) 640-2642 (no calls after 10 pm)</p>
+            <?php //  <p>(985) 640-2642 (no calls after 10 pm)</p> ?>
               <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
             </div>
           </div>
@@ -47,7 +47,7 @@
             <div class="media-body">
               <h2 class="media-heading">Chatelaine</h2>
               <p>Lord Andrew mac Corrin</p>
-              <p>(504) 667-3601</p>
+            <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
             </div>
           </div>
@@ -64,7 +64,7 @@
             <div class="media-body">
               <h2 class="media-heading">Arts and Sciences</h2>
               <p>Lady Johanna Merryngton</p>
-              <p>(504) 418-6510</p>
+            <?php //  <p>(504) 418-6510</p> ?>
               <p><a href="mailto:arts@axemoor.net?subject=Barony%20of%20Axemoor">arts@axemoor.net</a></p>
             </div>
           </div>
@@ -77,7 +77,7 @@
             <div class="media-body">
               <h2 class="media-heading">Exchequer</h2>
           <p>Lady Emma Grey</p>
-          <p>(504) 667-3601</p>
+        <?php //  <p>(504) 667-3601</p> ?>
           <p><a href="mailto:exchequer@axemoor.net?subject=Barony%20of%20Axemoor">exchequer@axemoor.net</a></p>
         </div>
       </div>
@@ -90,7 +90,7 @@
             <div class="media-body">
               <h2 class="media-heading">Chronicler</h2>
           <p>Lord Andrew mac Corrin</p>
-          <p>(504) 667-3601</p>
+         <?php //  <p>(504) 667-3601</p> ?>
           <p><a href="mailto:chronicler@axemoor.net?subject=Barony%20of%20Axemoor">chronicler@axemoor.net</a></p>
         </div>
       </div>
@@ -170,7 +170,7 @@
           <div class="media-body">
             <h2 class="media-heading">Quartermaster</h2>
             <p>Baroness Tegan verch Dwgan </p>
-            <p>(985) 285-2827</p>
+          <?php //  <p>(985) 285-2827</p>  ?>
             <p><a href="mailto:quartermaster@axemoor.net?subject=Barony%20of%20Axemoor">quartermaster@axemoor.net</a></p>
           </div>
         </div>
@@ -187,4 +187,3 @@
 <!-- Begin Footer - do not modify or insert anything after this -->
 
 <?php include("templates/footer.php");
-
