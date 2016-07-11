@@ -144,7 +144,7 @@
           <div class="media-body">
             <h2 class="media-heading">Constable</h2>
             <p>Baroness Tegan verch Dwgan</p>
-            <p>(985) 285-2827</p>
+            <?php //  <p>(985) 285-2827</p>  ?>
             <p><a href="mailto:constable@axemoor.net?subject=Barony%20of%20Axemoor">constable@axemoor.net</a></p>
           </div>
         </div>
@@ -157,7 +157,7 @@
           <div class="media-body">
             <h2 class="media-heading">Rapier Marshal</h2>
             <p>Lord Edmund Piercey</p>
-            <p>(985) 630-5670</p>
+            <?php //  <p>(985) 630-5670</p> ?>
             <p><a href="mailto:rapier@axemoor.net?subject=Barony%20of%20Axemoor">rapier@axemoor.net</a></p>
          </div>
        </div>
