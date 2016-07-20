@@ -144,7 +144,7 @@
           <div class="media-body">
             <h2 class="media-heading">Constable</h2>
             <p>Baroness Tegan verch Dwgan</p>
-            <?php //  <p>(985) 285-2827</p>  ?>
+            <p>(985) 285-2827</p>
             <p><a href="mailto:constable@axemoor.net?subject=Barony%20of%20Axemoor">constable@axemoor.net</a></p>
           </div>
         </div>
@@ -170,7 +170,7 @@
           <div class="media-body">
             <h2 class="media-heading">Quartermaster</h2>
             <p>Baroness Tegan verch Dwgan </p>
-          <?php //  <p>(985) 285-2827</p>  ?>
+          <p>(985) 285-2827</p>
             <p><a href="mailto:quartermaster@axemoor.net?subject=Barony%20of%20Axemoor">quartermaster@axemoor.net</a></p>
           </div>
         </div>
