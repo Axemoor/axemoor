@@ -374,12 +374,26 @@
       <div class="col-md-6">
         <div class="media">
           <div class="media-left">
-            <img src="images/armorial/gralon.gif" height="150px" alt="Gralon"/>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Gralon</h3>
-            <p><small><i>No records on file at the Gleann Abhann <a href="records.gleannabhann.net">Hall of Records</a></i></small>
-            <!--
+            <h3 class="media-heading">Gradlon Friant Braz</h3>
+            <p><small>
+            <?php
+            $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=598");
+            curl_setopt($ch, CURLOPT_HEADER, 0);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+            $result = curl_exec($ch);
+            curl_close($ch);
+
+            $person = json_decode($result, TRUE);
+            $awards = array_reverse($person["awards"]);
+            foreach ($awards as $award)
+              {
+              echo '<b>' . $award["name_award"] . '</b><i>, ' . $award["date_award"] . '</i>; ';
+              }
+             ?>
+           </small></p>
+           <!--
               <p>Titles</p>
               <p>M.K.A </p>
               <p>Persona Period and Location</p>
