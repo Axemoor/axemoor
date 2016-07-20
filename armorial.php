@@ -374,6 +374,7 @@
       <div class="col-md-6">
         <div class="media">
           <div class="media-left">
+            <img src="images/armorial/gralon.gif" height="150px" alt="Gyronny Or and sable, a castle argent"/>
           </div>
           <div class="media-body">
             <h3 class="media-heading">Gradlon Friant Braz</h3>
