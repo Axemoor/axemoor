@@ -33,8 +33,8 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Knight's Marshal</h2>
-              <p>Lord David Bootleg</p>
-            <?php //  <p>(985) 640-2642 (no calls after 10 pm)</p> ?>
+              <p>The Honorable Lord Gaius Aurelius Magnus</p>
+            <?php //  <p></p> ?>
               <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
             </div>
           </div>
