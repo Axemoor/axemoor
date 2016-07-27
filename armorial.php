@@ -884,6 +884,25 @@
                </div>
              </div>
            </div>
+
+           <div class="col-md-6">
+             <div class="media">
+               <div class="media-left">
+                 <img src="images/armorial/adalydedesardaigne.png" height="150px" alt="a"/>
+               </div>
+               <div class="media-body">
+                 <h3 class="media-heading">Baroness Adalyde de Sardaigne</h3>
+                <!--
+              <p>Titles</p>
+              <p>M.K.A </p>
+              <p>Persona Period and Location</p>
+              <p>Email address</p>
+            -->
+               </div>
+             </div>
+           </div>
+
+           </div>
            <!-- extra entry
            <div class="col-md-6">
              <div class="media">
