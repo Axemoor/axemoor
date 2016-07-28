@@ -567,14 +567,12 @@
             </div>
           </div>
         </div><!-- /.row -->
-        <div class="row">
-          <div class="col-md-12">
-            <hr width="75%"/>
-          </div>
-        </div>
-        <div class="row">
 
-           <!-- extra entry
+         <!-- extra entry
+
+
+
+
            <div class="col-md-6">
              <div class="media">
                <div class="media-left">
@@ -602,7 +600,7 @@
     </div><!-- /.container -->
 
 </div><!-- /.container -->
-</div>
+
 
 <!-- page content ends here -->
 
