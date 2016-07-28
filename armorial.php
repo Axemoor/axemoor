@@ -602,6 +602,7 @@
     </div><!-- /.container -->
 
 </div><!-- /.container -->
+</div>
 
 <!-- page content ends here -->
 
