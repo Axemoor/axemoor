@@ -265,7 +265,22 @@
             </div>
             <div class="media-body">
               <h3 class="media-heading">Johanna Merryngton</h3>
-              <p><small><i>No records on file at the Gleann Abhann <a href="http://records.gleannabhann.net">Hall of Records</a>.</i></small></p>
+              <p><small>
+              <?php
+              $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=1692");
+              curl_setopt($ch, CURLOPT_HEADER, 0);
+              curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+              $result = curl_exec($ch);
+              curl_close($ch);
+
+              $person = json_decode($result, TRUE);
+              $awards = array_reverse($person["awards"]);
+              foreach ($awards as $award)
+                {
+                echo '<b>' . $award["name_award"] . '</b><i>, ' . $award["date_award"] . '</i>; ';
+                }
+               ?>
+             </small></p>
              <!--
            <p>Titles</p>
            <p>M.K.A </p>
@@ -275,14 +290,14 @@
             </div>
           </div>
         </div>
-
+</div> <!-- /.row -->
       <div class="row">
         <div class="row">
           <div class="col-md-12">
             <hr width="75%"/>
           </div>
         </div>
-        <div class="row">
+        <div class="row"> <!-- Row 5 -->
 
           <div class="col-md-6">
             <div class="media">

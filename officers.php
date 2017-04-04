@@ -20,7 +20,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2>
-              <p>Lady Aoiffe O&apos;Calliegh</p>
+              <p>The Honorable Lady Aoiffe O&apos;Calliegh</p>
           <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>

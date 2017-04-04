@@ -67,30 +67,29 @@
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/seneschal.png" alt="Baronial Seneschal">
-            <h3>Lady Aofie O&apos;Calliegh
+            <h3>The Honorable Lady Aofie O&apos;Calliegh
                 <small>Seneschal</small>
             </h3>
             <p>Jill Applegate</p>
             <p>(504) 577-0738<br/>(no calls after 9pm)</p>
-            <p>Axemoor.Seneschal(at)hotmail.com</p>
+            <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/chatelaine.png" alt="Baronial Chatelaine">
-            <h3>Lady Emma Grey
+            <h3>Lord Andrew mac Corrin
                 <small>Chatelaine</small>
             </h3>
-            <p>Jerri &quot;Emma&quot; Moore</p>
-            <p>(504) 667-3601</p>
-            <p>axemoor.chatelaine(at)gmail.com</p>
+            <p>Drew Moore</p>
+            <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/marshal.png" alt="Baronial Knight Marshal">
-            <h3>Bootleg Dave
+            <h3>The Honorable Lord Gaius Aurelius Magnus
                 <small>Knight Marshal</small>
             </h3>
-            <p>(985) 640-2642<br/>(no calls after 10pm)</p>
+            <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
         </div>
-      
+
     </div>
 
 <!-- page content ends here -->
