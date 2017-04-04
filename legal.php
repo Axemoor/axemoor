@@ -43,7 +43,7 @@
     <p class="small">Any discrepancies beween this electronic version
       and the printed version that is available from the originating
       office will be decided in favor of the printed version.
-    <p><a class="btn btn-default" href="pdf/Baronial_Policy_and_Procedure_Final_Oct_2010.pdf" role="button">View &raquo;</a></p>
+    <p><a class="btn btn-default" href="pdf/axemoorpoliciesprocedures2016.pdf" role="button">View &raquo;</a></p>
   </div>
   <div class="col-md-4">
     <h2>Geographical Boundaries</h2>
