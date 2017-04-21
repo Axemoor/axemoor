@@ -19,7 +19,7 @@
               <img src="images/seneschal.png" height="60px" alt="SCA Seneschal Badge: Gules, a key fesswise Or"/>
             </div>
             <div class="media-body">
-              <h2 class="media-heading">Seneschal</h2> <!-- NOTE: If you change this, change the corresponding data on newcomers.php -->
+              <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>The Honorable Lady Aoiffe O&apos;Calliegh</p>
           <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
@@ -32,7 +32,7 @@
               <img src="images/marshal.png" height="60px" alt="SCA Marshal Badge: Sable, two swords in saltire Or"/>
             </div>
             <div class="media-body">
-              <h2 class="media-heading">Knight's Marshal</h2> <!-- NOTE: If you change this, change the corresponding data on newcomers.php -->
+              <h2 class="media-heading">Knight's Marshal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>The Honorable Lord Gaius Aurelius Magnus</p>
             <?php //  <p></p> ?>
               <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
@@ -45,7 +45,7 @@
               <img src="images/chatelaine.png" height="60px" alt="SCA Chatelaine Badge: Sable, a key palewise, wards to base, within a heart voided Argent"/>
             </div>
             <div class="media-body">
-              <h2 class="media-heading">Chatelaine</h2> <!-- NOTE: If you change this, change the corresponding data on newcomers.php -->
+              <h2 class="media-heading">Chatelaine</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Lord Andrew mac Corrin</p>
             <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>

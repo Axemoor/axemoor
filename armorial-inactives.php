@@ -558,6 +558,55 @@
          </div>
 
        </div>
+       <div class="row">
+         <div class="col-md-12">
+           <hr width="75%"/>
+         </div>
+       </div>
+       <div class="row">
+       <div class="col-md-6">
+         <div class="media">
+           <div class="media-left">
+            <!-- <img src="images/armorial/a.gif" height="150px" alt="(blazon)" title="(blazon)"/> -->
+           </div>
+           <div class="media-body">
+             <h3 class="media-heading">Lucia Borromeo<br/><small>Argent, a wyvern passant gules, maintaining a quill pen, on a chief indented sable, three bees volant en arrière to dexter Or.</small></h3>
+             <?php
+             $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=882");
+             curl_setopt($ch, CURLOPT_HEADER, 0);
+             curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+             $result = curl_exec($ch);
+             curl_close($ch);
+
+             $person = json_decode($result, TRUE);
+             $awards = array_reverse($person["awards"]);
+             foreach ($awards as $award)
+               {
+               echo '<b>' . $award["name_award"] . '</b><i>, ' . $award["date_award"] . '</i>; ';
+               }
+              ?>
+
+
+           </div>
+         </div>
+       </div>
+
+          <div class="col-md-6">
+            <div class="media">
+              <div class="media-left">
+                <img src="images/armorial/elenekirchenknopf.png" height="150px" alt="Per bend urdy argent and azure, a bowl and a sinister hand counterchanged. " title="Per bend urdy argent and azure, a bowl and a sinister hand counterchanged."/>
+              </div>
+              <div class="media-body">
+                <h3 class="media-heading">Elene Kirchenknopf</h3>
+
+                <p><small><i>No records on file at the Gleann Abhann <a href="records.gleannabhann.net">Hall of Records</a></i></small>
+
+
+              </div>
+            </div>
+          </div>
+
+        </div>
        <!-- extra row
         <div class="row">
         <div class="col-md-6">
