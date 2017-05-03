@@ -55,7 +55,7 @@
           <span class="icon-bar"></span>
         </button>
         <!--If a suitable Axemoor icon is available, place it here, max height of 50px -->
-        <img src="images/axemoor-device.gif" alt="Axemoor's Device" height="50px" class="pull-left" /><a class="navbar-brand" href="../">&nbsp; Barony of Axemoor</a>
+        <img src="images/axemoor-device.png" alt="Axemoor's Device" height="50px" class="pull-left" /><a class="navbar-brand" href="../">&nbsp; Barony of Axemoor</a>
         </div>
         <!-- Below are the navigation links. These will display in a single wide column on mobile devices -->
          <div id="navbar" class="navbar-collapse collapse">
