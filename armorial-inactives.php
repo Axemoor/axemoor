@@ -567,10 +567,10 @@
        <div class="col-md-6">
          <div class="media">
            <div class="media-left">
-            <!-- <img src="images/armorial/a.gif" height="150px" alt="(blazon)" title="(blazon)"/> -->
+            <img src="images/armorial/lucia_borromeo.png" height="150px" alt="Argent, a wyvern passant gules, maintaining a quill pen, on a chief indented sable, three bees volant en arrière to dexter Or." title="Argent, a wyvern passant gules, maintaining a quill pen, on a chief indented sable, three bees volant en arrière to dexter Or."/>
            </div>
            <div class="media-body">
-             <h3 class="media-heading">Lucia Borromeo<br/><small>Argent, a wyvern passant gules, maintaining a quill pen, on a chief indented sable, three bees volant en arrière to dexter Or.</small></h3>
+             <h3 class="media-heading">Lucia Borromeo</h3>
              <?php
              $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=882");
              curl_setopt($ch, CURLOPT_HEADER, 0);
