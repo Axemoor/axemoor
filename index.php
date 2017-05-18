@@ -10,8 +10,8 @@
       <div class="center-block">
         <p class="lead text-center">The Populace of Axemoor<p>
         <a href="images/axemoor_populace.jpg">
-          <img class="center-block img-responsive" src="images/axemoor_populace.jpg" alt="The Populace of Axemoor" /></a>
-         <h6 class="text-center">Photo Courtesy of Her Excellency Barbara Sterling</h6>
+          <img class="center-block img-responsive" src="images/axemoor_populace.png" alt="The Populace of Axemoor" /><!-- Release code SP0501--></a>
+         <h6 class="text-center">Photo Courtesy of Lord Sebastian Martinez de Leon</h6>
 
 
       </div>
@@ -60,8 +60,7 @@ our Fighter Practices or Meetings.</p>
         <!-- Begin Column 2 -->
         <div class="col-md-4">
           <h2>Baronet</h2>
-          <p>Meet His Excellency Gellir Gunnarrsson and Her Excellency Brigida
-            Ingvarsdottir, the Baronos and Baronossa of Axemoor. </p>
+          <p>Meet His Excellency Dafydd ap y Kynith and Her Excellency Tegan verch Dwgan, the Baron and Baroness of Axemoor. </p>
           <p><a class="btn btn-default" href="baronet.php" role="button">View details &raquo;</a></p>
        </div>
        <!-- End Column 2 -->

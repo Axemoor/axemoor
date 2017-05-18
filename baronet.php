@@ -32,19 +32,12 @@
             <div class="col-sm-12 col-md-4">
               <div class="blog-post">
                 <h2 class="blog-post-title text-center">Baroness of Axemoor</h2>
-                <?php if (time() < 1492873200) { // if earlier than 10:00 a.m. CDT on April 22, 2017, do this:
-                  echo "<p class='text-center'>Her Excellency Baroness Brigida Ingvarsdottir</p>";
-                  echo "<p class='text-center'>Ann Bass</p>";
-                  echo "<p class='text-center'>baroness_gida(at)att.net</p>";
-                  echo "<img class='center-block' src='images/armorial/brigidaingvarsdottir.gif' height='300px'>";
-                }
-                else {
-                  echo "<p class='text-center'>Her Excellency Baroness Tegan verch Dwgan</p>";
-                  echo "<p class='text-center'>Elaine Dunagan</p>";
-                  echo "<p class='text-center'>baroness@axemoor.net</p>";
-                  echo "<img class='center-block' src='images/armorial/tegandwgan.gif' height='300px'>";
-                }
-                  ?>
+
+                  <p class='text-center'>Her Excellency Baroness Tegan verch Dwgan</p>
+                  <p class='text-center'>Elaine Dunagan</p>
+                  <p class='text-center'>baroness@axemoor.net</p>
+                  <img class='center-block' src='images/armorial/tegandwgan.gif' height='300px'>
+                  <P>Her Excellency is interested in weaving, herbals, and needle arts. She likes sweet wines and light bourbons. She is allergic to patchouli and sandalwood.</p>
 
                 <hr/>
 
@@ -53,8 +46,8 @@
                   <t><td>Award Name</td><td>Award Date</td></tr>
                   <?php
 
-                   if (time() < 1492873200) {$ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=245");}
-                     else {$ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=1264");}
+
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=1264");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
                   $result = curl_exec($ch);
@@ -85,18 +78,12 @@
             <div class="col-sm-12 col-md-4">
               <div class="blog-post">
                 <h2 class="blog-post-title text-center">Baron of Axemoor</h2>
-                <?php if (time() < 1492873200){
-                  echo "<p class='text-center'>His Excellency Baron Gellir Gunnarrsson</p>";
-                echo "<p class='text-center'>Chris Bass</p>";
-                echo "<p class='text-center'>gellir(at)att.net<p>";
-                echo "<img class='center-block' src='images/armorial/gellirgunnarrsson.gif' height='300px'>";
-              } else {
-                echo "<p class='text-center'>His Excellency Baron Dafydd ap y Kynith</p>";
-              echo "<p class='text-center'>Richard Dunagan</p>";
-              echo "<p class='text-center'>baron@axemoor.net<p>";
-              echo "<img class='center-block' src='images/armorial/dafyddkynith.gif' height='300px'>";
-              }
-                ?>
+
+              <p class='text-center'>His Excellency Baron Dafydd ap y Kynith</p>
+              <p class='text-center'>Richard Dunagan</p>
+              <p class='text-center'>baron@axemoor.net<p>
+              <img class='center-block' src='images/armorial/dafyddkynith.gif' height='300px'>
+              <p>His Excellency is interested in fighting, archery, and live weapons. He enjoys scotch, ales, and some meads. He has no known allergies.</p>
 
 
 
@@ -106,9 +93,8 @@
                   <thead colspan='2'><h2 class="text-center">His Excellency's Awards</h2></thead>
                   <t><td>Award Name</td><td>Award Date</td></tr>
                   <?php
-                  if (time() < 1492873200) {$ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=556");
-                  } else {$ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=363");}
 
+                  $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=363");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
                   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
                   $result = curl_exec($ch);
