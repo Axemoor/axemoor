@@ -9,7 +9,7 @@
     <div class="jumbotron">
       <div class="center-block">
         <p class="lead text-center">The Populace of Axemoor<p>
-        <a href="images/axemoor_populace.jpg">
+        <a href="images/axemoor_populace.png">
           <img class="center-block img-responsive" src="images/axemoor_populace.png" alt="The Populace of Axemoor" /><!-- Release code SP0501--></a>
          <h6 class="text-center">Photo Courtesy of Lord Sebastian Martinez de Leon</h6>
 

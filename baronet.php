@@ -71,7 +71,9 @@
 
             <div class="col-sm-12 col-md-4">
               <div class="blog-post">
-                <!--<img class="center-block" src="images/te_axemoor.jpg" width=100%> -->
+                <img class="center-block" src="images/te_axemoor.jpg" width=100% alt="Photo of TE Dafydd and Tegan. Photo by Duchess Danielle de la Roche.">
+                <!-- Release code SP0730 -->
+                <h6 class="text-center"> Photo courtesy of Duchess Danielle de la Roche </h6>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
 

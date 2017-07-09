@@ -20,8 +20,9 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
-              <p>The Honorable Lady Aoiffe O&apos;Calliegh</p>
+              <p>The Honorable Lady Aoffie O&apos;Calliegh</p>
           <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
+              <p>Deputy: Lady Stella D'Orleans</p>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
           </div>
@@ -47,6 +48,7 @@
             <div class="media-body">
               <h2 class="media-heading">Chatelaine</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Lord Andrew mac Corrin</p>
+              <p>Deputy: Lady Kitta Norndottir<p>
             <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
             </div>
@@ -76,7 +78,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Exchequer</h2>
-          <p>Lady Emma Grey</p>
+          <p>Kjalvor Vetsdottir</p>
         <?php //  <p>(504) 667-3601</p> ?>
           <p><a href="mailto:exchequer@axemoor.net?subject=Barony%20of%20Axemoor">exchequer@axemoor.net</a></p>
         </div>
@@ -105,7 +107,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Herald</h2>
-              <p>Baroness Adalyde de Sardaigne</p>
+              <p>Floki Heimdalson</p>
               <p><a href="mailto:herald@axemoor.net?subject=Barony%20of%20Axemoor">herald@axemoor.net</a></p>
             </div>
           </div>
@@ -130,6 +132,7 @@
             <div class="media-body">
               <h2 class="media-heading">Webminister</h2>
               <p>Lady Cordeilla Sharpe</p>
+              <p>Deputy: Egil Haraldsson</p>
               <p><a href="mailto:webminister@axemoor.net?subject=Barony%20of%20Axemoor">webminister@axemoor.net</a></p>
             </div>
           </div>
@@ -156,7 +159,7 @@
           </div>
           <div class="media-body">
             <h2 class="media-heading">Rapier Marshal</h2>
-            <p>Lord Edmund Piercey</p>
+            <p>Lord David Boot Leg</p>
             <?php //  <p>(985) 630-5670</p> ?>
             <p><a href="mailto:rapier@axemoor.net?subject=Barony%20of%20Axemoor">rapier@axemoor.net</a></p>
          </div>
