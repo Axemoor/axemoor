@@ -70,8 +70,8 @@
             <h3>The Honorable Lady Aofie O&apos;Calliegh
                 <small>Seneschal</small>
             </h3>
-            <p>Jill Applegate</p>
-            <p>(504) 577-0738<br/>(no calls after 9pm)</p>
+          
+            <?php //<p>(504) 577-0738<br/>(no calls after 9pm)</p> ?>
             <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
@@ -79,7 +79,7 @@
             <h3>Lord Andrew mac Corrin
                 <small>Chatelaine</small>
             </h3>
-            <p>Drew Moore</p>
+
             <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center">

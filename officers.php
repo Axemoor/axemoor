@@ -48,7 +48,7 @@
             <div class="media-body">
               <h2 class="media-heading">Chatelaine</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Lord Andrew mac Corrin</p>
-              <p>Deputy: Lady Kitta Norndottir<p>
+              <p>Deputy: Kitta Norndottir<p>
             <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
             </div>
@@ -132,7 +132,7 @@
             <div class="media-body">
               <h2 class="media-heading">Webminister</h2>
               <p>Lady Cordeilla Sharpe</p>
-              <p>Deputy: Egil Haraldsson</p>
+              <p>Deputy: The Honorable Lord Egil Haraldsson</p>
               <p><a href="mailto:webminister@axemoor.net?subject=Barony%20of%20Axemoor">webminister@axemoor.net</a></p>
             </div>
           </div>
