@@ -32,7 +32,7 @@
 
       // Initialize the cURL session and set the source URL.
       // Substitute in the individual's ID where "245" is
-      $ch = curl_init("http://dev.records.gleannabhann.net/api/award_recip.php?id=220");
+      $ch = curl_init("http://dev.records.gleannabhann.net/api/award_recip.php?id=220"); //TODO update the id once it exists in Records
 
       // we don't want the headers, so we include this and set it to 0 ("False")
       curl_setopt($ch, CURLOPT_HEADER, 0);
