@@ -18,9 +18,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
    <!-- Bootstrap Stylesheet -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+	<link rel="icon" href="./favicon.ico" type="image/x-icon">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -72,6 +72,7 @@
 
                   <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                     <li role="presentation"><a role="menuitem" tabindex="-1" href="gulfwars.php">Gulf Wars</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="awards.php">Awards</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Arts &amp; Sciences</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">History</a></li>
                     <li role="presentation" class="disabled"><a role="menuitem" tabindex="-1" href="#">Photos</a></li>
