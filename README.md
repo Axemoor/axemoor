@@ -1,6 +1,8 @@
 Axemoor.net
 ========
 
+This repository holds the code base for the SCA branch the Barony of Axwmoor. Visit http://www.axemoor.net to view the code in use.
+
 How to use this repository.
 --------
 
@@ -15,7 +17,7 @@ If you want to take a hands-off approach, and simply make a request for a change
 
 If you would like to be more involved in the development process, read on:
 
-Visit http://github.com/Cordelya/axemoor and click the button in the upper right corner labeled "Fork". This will create a copy of the repository in your own account. This is a snapshot of what the repository looked like when you clicked the button. If you want to update from this repository later, you will need to do that manually.
+Visit http://github.com/axemoor/website and click the button in the upper right corner labeled "Fork". This will create a copy of the repository in your own account. This is a snapshot of what the repository looked like when you clicked the button. If you want to update from this repository later, you will need to do that manually.
 Once you have created the fork, you will then need a way to sync and track changes with your computer, and you will need a development environment (a webserver that you use locally to test while you build or change a site)
 
 For those more comfortable, you can use _git_ to manage sync and track. If you are not comfortable with using _git,_ Github has a client application you may install, which has a graphical user interface. See https://desktop.github.com/ for details. In the instructions below, we will provide basic instructions for using Github Desktop, assuming that anyone using _git_ doesn't really need our help with it.
