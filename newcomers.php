@@ -70,7 +70,9 @@
             <h3>The Honorable Lady Aofie O&apos;Calliegh
                 <small>Seneschal</small>
             </h3>
-          
+            <h3>Lady Stella D'Orleans
+                <small>Deputy Seneschal</small>
+            </h3>
             <?php //<p>(504) 577-0738<br/>(no calls after 9pm)</p> ?>
             <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
         </div>
@@ -78,6 +80,9 @@
             <img class="img-circle img-responsive img-center" src="images/chatelaine.png" alt="Baronial Chatelaine">
             <h3>Lord Andrew mac Corrin
                 <small>Chatelaine</small>
+            </h3>
+            <h3>Lady Kitta Norndottir
+                <small>Deputy Chatelaine</small>
             </h3>
 
             <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>

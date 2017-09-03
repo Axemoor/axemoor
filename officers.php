@@ -22,7 +22,7 @@
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>The Honorable Lady Aoffie O&apos;Calliegh</p>
           <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
-              <p>Deputy: Lady Stella D'Orleans</p>
+              <p>Deputy: Stella D'Orleans</p>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
           </div>
@@ -48,7 +48,7 @@
             <div class="media-body">
               <h2 class="media-heading">Chatelaine</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Lord Andrew mac Corrin</p>
-              <p>Deputy: Kitta Norndottir<p>
+              <p>Deputy: Lady Kitta Norndottir<p>
             <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
             </div>
@@ -107,7 +107,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Herald</h2>
-              <p>Floki Heimdalson</p>
+              <p>Lord Floki Heimdalson</p>
               <p><a href="mailto:herald@axemoor.net?subject=Barony%20of%20Axemoor">herald@axemoor.net</a></p>
             </div>
           </div>
