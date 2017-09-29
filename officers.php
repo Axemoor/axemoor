@@ -172,8 +172,8 @@
           </div>
           <div class="media-body">
             <h2 class="media-heading">Quartermaster</h2>
-            <p>Baroness Tegan verch Dwgan </p>
-          <p>(985) 285-2827</p>
+            <p>Lord David Boot Leg</p>
+          <p></p>
             <p><a href="mailto:quartermaster@axemoor.net?subject=Barony%20of%20Axemoor">quartermaster@axemoor.net</a></p>
           </div>
         </div>
