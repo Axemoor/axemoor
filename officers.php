@@ -91,7 +91,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Chronicler</h2>
-          <p>Lord Andrew mac Corrin</p>
+          <p>Baroness Adalyde de Sardaigne</p>
          <?php //  <p>(504) 667-3601</p> ?>
           <p><a href="mailto:chronicler@axemoor.net?subject=Barony%20of%20Axemoor">chronicler@axemoor.net</a></p>
         </div>
@@ -119,7 +119,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Historian</h2>
-              <p>Baroness Adalyde de Sardaigne</p>
+              <p>Lopthaena Kolgrimrsdottir</p>
               <p><a href="mailto:historian@axemoor.net?subject=Barony%20of%20Axemoor">historian@axemoor.net</a></p>
             </div>
           </div>
