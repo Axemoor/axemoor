@@ -201,7 +201,7 @@
             </div>
             <div class="media-body">
               <h3 class="media-heading">Rycharde Davidson</h3>
-              <p><small><i>No records on file at the Gleann Abhann <a href="records.gleannabhann.net">Hall of Records</a></i></small>
+              <p><small><i>No records on file at the Gleann Abhann <a href="http://records.gleannabhann.net">Hall of Records</a></i></small>
               <!--
               <p>Titles</p>
               <p>M.K.A </p>
@@ -599,7 +599,7 @@
               <div class="media-body">
                 <h3 class="media-heading">Elene Kirchenknopf</h3>
 
-                <p><small><i>No records on file at the Gleann Abhann <a href="records.gleannabhann.net">Hall of Records</a></i></small>
+                <p><small><i>No records on file at the Gleann Abhann <a href="http://records.gleannabhann.net">Hall of Records</a></i></small>
 
 
               </div>
