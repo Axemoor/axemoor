@@ -20,7 +20,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
-              <p>The Honorable Lady Aoffie O&apos;Calliegh</p>
+              <p>Sir Mika'il al-Rashid</p>
           <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
               <p>Deputy: Stella D'Orleans</p>
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
@@ -34,7 +34,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Knight's Marshal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
-              <p>The Honorable Lord Gaius Aurelius Magnus</p>
+              <p>Sir Grimbaldus Bacon</p>
             <?php //  <p></p> ?>
               <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
             </div>
@@ -47,8 +47,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Chatelaine</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
-              <p>Lord Andrew mac Corrin</p>
-              <p>Deputy: Lady Kitta Norndottir<p>
+              <p>Lady Kitta Norndottir<p>
             <?php //  <p>(504) 667-3601</p> ?>
               <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
             </div>
@@ -65,7 +64,7 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Arts and Sciences</h2>
-              <p>Lady Johanna Merryngton</p>
+              <p>The Honorable Lord Gaius Aurelius Magnus</p>
             <?php //  <p>(504) 418-6510</p> ?>
               <p><a href="mailto:arts@axemoor.net?subject=Barony%20of%20Axemoor">arts@axemoor.net</a></p>
             </div>
@@ -132,7 +131,7 @@
             <div class="media-body">
               <h2 class="media-heading">Webminister</h2>
               <p>Lady Cordeilla Sharpe</p>
-              <p>Deputy: The Honorable Lord Egil Haraldsson</p>
+              <p>Deputy: The Honorable Lady Aoiffe O'Calleigh</p>
               <p><a href="mailto:webminister@axemoor.net?subject=Barony%20of%20Axemoor">webminister@axemoor.net</a></p>
             </div>
           </div>

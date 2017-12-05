@@ -67,7 +67,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/seneschal.png" alt="Baronial Seneschal">
-            <h3>The Honorable Lady Aofie O&apos;Calliegh
+            <h3>Sir Mika'il al-Rashid
                 <small>Seneschal</small>
             </h3>
             <h3>Lady Stella D'Orleans
@@ -78,18 +78,18 @@
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/chatelaine.png" alt="Baronial Chatelaine">
-            <h3>Lord Andrew mac Corrin
+            <h3>Lady Kitta Norndottir
                 <small>Chatelaine</small>
             </h3>
-            <h3>Lady Kitta Norndottir
+            <!--<h3>
                 <small>Deputy Chatelaine</small>
-            </h3>
+            </h3>-->
 
             <p><a href="mailto:chatelaine@axemoor.net?subject=Barony%20of%20Axemoor">chatelaine@axemoor.net</a></p>
         </div>
         <div class="col-lg-4 col-sm-6 text-center">
             <img class="img-circle img-responsive img-center" src="images/marshal.png" alt="Baronial Knight Marshal">
-            <h3>The Honorable Lord Gaius Aurelius Magnus
+            <h3>Sir Grimbaldus Bacon
                 <small>Knight Marshal</small>
             </h3>
             <p><a href="mailto:combat@axemoor.net?subject=Barony%20of%20Axemoor">combat@axemoor.net</a></p>
