@@ -22,12 +22,6 @@
       <li>At the close of GW registration if you have not registered you forfeit
          your spot and all funds will be refunded.</li>
       <li>Site fee for Axemoor will be $30.00.
-        <ul><li>As an alternative, a limited
-        first opportunity to pay site fees. Upon February 1st ,spots in  Axemoor
-        will be open to non Axemoor and guests.</li>
-      <li>At the close of GW registration if you have not registered you forfeit
-         your spot and all funds will be refunded.</li>
-      <li>Site fee for Axemoor will be $30.00. </li>
       <li>You can ask for a particular spot, but it is not guaranteed that you
          will get it due to tent sizes and getting everyone to fit. Special
          needs will be taken into consideration.</li>
@@ -45,21 +39,20 @@
        be asked to make a donation to the Barony Gulf Wars bank to get them back!</li>
      <li>No running in camp.</li>
      <li>Be courteous to your neighbors at all hours.</li>
-     <li>Never leave fire unattended, Always have water bucket full of water
-       placed next to fire pit.</li>
+     <li>Never leave fire unattended. <strong>Always have water bucket full of water
+       placed next to fire pit.</strong></li>
      <li>Do not unplug/plug into the shower outlet. It is for the shower only.</li>
      <li>Help keep the shower clean.</li>
      <li>Kitchen property stays in kitchen</li>
      <li>Quiet hours start at midnight til 8am. You don't have to go to bed but
        please no loud talking or music.
        <ul><li>Outside gate torches are to be turned off at midnight.</li></ul>
-       
+
    </ol>
 
    <h2>Meal Plan and Kitchen</h2>
-   <p>If you are participating in the meal plan, you will be required to sign up
-     for dish duty or cooks assistant. If you sign up to cook please show up an
-     hour early.</p>
+   <p>The meal plan will be changing this year. Details will be posted as they
+     are available.</p>
 
    <p>Any personal things left in the kitchen after war and not claimed within a
      month will then belong to the kitchen.</p>
