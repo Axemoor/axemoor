@@ -17,22 +17,17 @@
     <h2>Reservation Policies</h2>
     <ol>
       <li>When Gulf Wars Registration opens Axemoor and Axemoor citizens have
-<<<<<<< HEAD
         first opportunity to pay site fees. On February 1st, spots in  Axemoor
         will be open to non-Axemoor and guests.</li>
       <li>At the close of GW registration if you have not registered you forfeit
          your spot and all funds will be refunded.</li>
       <li>Site fee for Axemoor will be $30.00.
         <ul><li>As an alternative, a limited
-=======
         first opportunity to pay site fees. Upon February 1st ,spots in  Axemoor
         will be open to non Axemoor and guests.</li>
       <li>At the close of GW registration if you have not registered you forfeit
          your spot and all funds will be refunded.</li>
-      <li>Site fee for Axemoor will be $30.00. <ul><li>As an alternative, a limited
->>>>>>> master
-      number of campers may supply 25lbs of propane (in a bottle) in lieu of each
-        $30 fee. All campers supplying propane must pre-arrange with Axemoor Land.</li></ul></li>
+      <li>Site fee for Axemoor will be $30.00. </li>
       <li>You can ask for a particular spot, but it is not guaranteed that you
          will get it due to tent sizes and getting everyone to fit. Special
          needs will be taken into consideration.</li>
@@ -45,9 +40,9 @@
      <li>If food is left under the baronial pavilion it is for all to eat. If
        you do not want everyone to eat it please put it away.</li>
      <li>No trash in the fire pit. This includes plastic, glass, or bottle caps.</li>
-     <li>Keep camp clean. If in doubt it gets trashed. Items repeatedly left
+     <li>Keep camp clean. If it looks like trash, it gets trashed. Items repeatedly left
        unattended in common areas may be collected by the Management and you may
-       be asked to make a donation to the trailer fund to get them back!</li>
+       be asked to make a donation to the Barony Gulf Wars bank to get them back!</li>
      <li>No running in camp.</li>
      <li>Be courteous to your neighbors at all hours.</li>
      <li>Never leave fire unattended, Always have water bucket full of water
@@ -55,7 +50,10 @@
      <li>Do not unplug/plug into the shower outlet. It is for the shower only.</li>
      <li>Help keep the shower clean.</li>
      <li>Kitchen property stays in kitchen</li>
-
+     <li>Quiet hours start at midnight til 8am. You don't have to go to bed but
+       please no loud talking or music.
+       <ul><li>Outside gate torches are to be turned off at midnight.</li></ul>
+       
    </ol>
 
    <h2>Meal Plan and Kitchen</h2>
