@@ -46,6 +46,20 @@
               <p>Persona Period and Location</p>
               <p>Email address</p>
               -->
+              <p>Gordon Rede's shields are on display at the Waldorf School of New Orleans</p>
+              <div class="row">
+                <div class="col-md-6">
+                  <img src="images/armorial/gordon-rede-kite.jpg" width="200px" class="img-fluid img-thumbnail rounded" alt="photgraph of Gordon Rede's kite shield"><!--release code sp0764-->
+                </div>
+                <div class="col-md-6">
+                <img src="images/armorial/gordon-rede-round.jpg" width="200px" class="img-fluid img-thumbnail rounded" alt="photograph of Gordon Rede's round shield"><!--release code sp0764-->
+              </div>
+              </div>
+              <div class="row">
+                <p class="text-center">
+                  Photos courtesy of Mistress Tegan verch Dwgan
+                </p>
+              </div>
           </div>
         </div>
       </div>
