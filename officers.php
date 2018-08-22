@@ -64,8 +64,8 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Arts and Sciences</h2>
-              <p>The Honorable Lord Gaius Aurelius Magnus</p>
-            <?php //  <p>(504) 418-6510</p> ?>
+              <p>Vacant</p>
+            <?php //  <p></p> ?>
               <p><a href="mailto:arts@axemoor.net?subject=Barony%20of%20Axemoor">arts@axemoor.net</a></p>
             </div>
           </div>
@@ -90,8 +90,8 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Chronicler</h2>
-          <p>Baroness Adalyde de Sardaigne</p>
-         <?php //  <p>(504) 667-3601</p> ?>
+          <p>Lady Grace of Axemoor</p>
+         <?php //  <p>(985)640-9543</p> ?>
           <p><a href="mailto:chronicler@axemoor.net?subject=Barony%20of%20Axemoor">chronicler@axemoor.net</a></p>
         </div>
       </div>
@@ -130,8 +130,8 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Webminister</h2>
-              <p>Lady Cordeilla Sharpe</p>
-              <p>Deputy: The Honorable Lady Aoiffe O'Calleigh</p>
+              <p>The Honorable Lady Aofie O'Calliegh</p>
+              <p>Deputy: Vacant</p>
               <p><a href="mailto:webminister@axemoor.net?subject=Barony%20of%20Axemoor">webminister@axemoor.net</a></p>
             </div>
           </div>
