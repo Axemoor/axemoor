@@ -21,7 +21,7 @@
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Sir Mika'il al-Rashid</p>
-          <?php //    <p></p> ?>
+          <?php //    <p>(985)201-5317</p> ?>
 
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
@@ -65,7 +65,7 @@
             <div class="media-body">
               <h2 class="media-heading">Arts and Sciences</h2>
               <p>Lady Gidney of Axemoor</p>
-            <?php //  <p>(847)997-6009</p> ?>
+            <?php //  <p></p> ?>
               <p><a href="mailto:arts@axemoor.net?subject=Barony%20of%20Axemoor">arts@axemoor.net</a></p>
             </div>
           </div>
