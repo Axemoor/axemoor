@@ -21,7 +21,7 @@
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Sir Mika'il al-Rashid</p>
-          <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
+          <?php //    <p></p> ?>
 
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
