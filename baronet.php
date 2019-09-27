@@ -41,10 +41,10 @@
 
                 <hr/>
 
-                <!--<table class='table-condensed'>
+                <table class='table-condensed'>
                   <thead colspan='2'><h2 class="text-center">Her Excellency's Awards</h2></thead>
                   <t><td>Award Name</td><td>Award Date</td></tr>
-                  <?php /*
+                  <?php
 
 
                   $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=1264");
@@ -62,7 +62,7 @@
                     echo '</table>';
 
 
-                   */ ?>-->
+                    ?>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
 
@@ -91,10 +91,10 @@
 
                 <hr/>
 
-                <!--<table class='table-condensed'>
+                <table class='table-condensed'>
                   <thead colspan='2'><h2 class="text-center">His Excellency's Awards</h2></thead>
                   <t><td>Award Name</td><td>Award Date</td></tr>
-                  <?php/*
+                  <?php
 
                   $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=363");
                   curl_setopt($ch, CURLOPT_HEADER, 0);
@@ -111,7 +111,7 @@
                     echo '</table>';
 
 
-                   */?>-->
+                   ?>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
           </div><!-- /.row -->
