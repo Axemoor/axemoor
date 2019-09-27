@@ -62,7 +62,7 @@
                     echo '</table>';
 
 
-                   ?>
+                    ?>
               </div><!-- /.blog-post -->
             </div><!-- /.col -->
 
