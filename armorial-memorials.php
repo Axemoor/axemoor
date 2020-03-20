@@ -104,6 +104,63 @@
       </div>
 
 </div><!-- /.row -->
+<div class="row">
+  <div class="col-md-12">
+    <hr width="75%"/>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <div class="media">
+      <div class="media-left">
+        <img src="images/armorial/byron-delancey.jpg" height="150px" alt="THL Byron Delancey's personal arms"/>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading">The Honorable Lord Byron Delancey</h3>
+             <p>M.K.A. Brian Held, Jr.</p>
+        <p><small>
+        <?php
+        $ch = curl_init("http://records.gleannabhann.net/api/person_awards.php?id=259");
+        curl_setopt($ch, CURLOPT_HEADER, 0);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        $result = curl_exec($ch);
+        curl_close($ch);
+
+        $person = json_decode($result, TRUE);
+        $awards = array_reverse($person["awards"]);
+        foreach ($awards as $award)
+          {
+          echo '<b>' . $award["name_award"] . '</b><i>, ' . $award["date_award"] . '</i>; ';
+          }
+         ?>
+       </small></p>
+
+
+     <p>THL Byron Delancey passed away on March 17, 2020.</p>
+     <hr/>
+     <!-- <p>Persona Period and Location</p> -->
+
+     <div class="row">
+       <div class="col-md-12">
+         <p><em>Byron doing scribal work. He inspired others to take up scribal arts.</em></p>
+         <img src="images/armorial/byron-delancey-scribing.jpg" height="300px" alt="Byron working on a scroll"/><!--release code -->
+       </div>
+     </div>
+     <div class="row">
+       <p class="text-center">
+        Photo courtesy Mistress Barbara Sterling
+       </p>
+     </div>
+
+
+
+      </div>
+    </div>
+  </div>
+
+
+
          <!-- extra entry
          <div class="row">
            <div class="col-md-6 col-md-offset-3">
@@ -125,9 +182,11 @@
          </div>
          end of extra entry -->
 
-    </div><!-- /.container -->
 
-</div><!-- /.container -->
+
+
+       </div><!-- /.container -->
+     </div><!-- /.container -->
 
 <!-- page content ends here -->
 
