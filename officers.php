@@ -21,7 +21,7 @@
             <div class="media-body">
               <h2 class="media-heading">Seneschal</h2> <?php //NOTE: If you change this, change the corresponding data on newcomers.php ?>
               <p>Sir Mika'il al-Rashid</p>
-          <?php //    <p>(504) 577-0738 (no calls after nine)</p> ?>
+          <?php //    <p>(985)201-5317</p> ?>
 
               <p><a href="mailto:seneschal@axemoor.net?subject=Barony%20of%20Axemoor">seneschal@axemoor.net</a></p>
             </div>
@@ -64,7 +64,9 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Arts and Sciences</h2>
-              <p>Vacant</p>
+
+              <p>Lady Gidney of Axemoor</p>
+
             <?php //  <p></p> ?>
               <p><a href="mailto:arts@axemoor.net?subject=Barony%20of%20Axemoor">arts@axemoor.net</a></p>
             </div>
@@ -130,8 +132,9 @@
             </div>
             <div class="media-body">
               <h2 class="media-heading">Webminister</h2>
-              <p>The Honorable Lady Aofie O'Calliegh</p>
-              <p>Deputy: Vacant</p>
+              <p>The Honorable Lady Aoiffe O'Calleigh</p>
+              <p>Deputy: Open</p>
+
               <p><a href="mailto:webminister@axemoor.net?subject=Barony%20of%20Axemoor">webminister@axemoor.net</a></p>
             </div>
           </div>

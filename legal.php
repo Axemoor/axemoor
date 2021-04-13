@@ -15,7 +15,7 @@
 
     <h2>Statement of Ownership</h2>
     <p>This is the recognized web site for the Barony of Axemoor of the Society for
-    Creative Anachronism, Inc. and is maintained by <em>Lady Cordeilla Sharpe</em>.
+    Creative Anachronism, Inc. and is maintained by <em>THL Aofie O'Calliegh</em>.
     This site may contain electronic versions of the group's governing documents.
     Any discrepancies between the electronic version of any information on this
     site and the printed version that is available from the originating office will
